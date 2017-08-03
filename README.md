@@ -1,0 +1,4 @@
+# SimpleBind
+
+自己写的一个简单的Processor，类似于简单的ButterKnife,使用BindLayout 注解代替setContentView,使用BindView 注解代替findViewById
+仅用于学习，还有很多细节没有处理，如果有小伙伴想学习通过注解编译时生成代码，可以看看
